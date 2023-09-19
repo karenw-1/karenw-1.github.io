@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"restaurants": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Name": "Zoe Restaurant",
+			"City": "East Amherst",
+			"State": "NY",
+			"Rating": "4.5 stars"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Ippudo",
+			"City": "Berkeley",
+			"State": "CA",
+			"Rating": "4.2"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Name": "Sava's",
+			"City": "Ann Arbor",
+			"State": "Michigan",
+			"Rating": "4.4"
 		}
 	]
 }
