@@ -1,0 +1,22 @@
+{
+	"restaurants": [
+		{
+			"Name": "Zoe Restaurant",
+			"City": "East Amherst",
+			"State": "NY",
+			"Rating": "4.5 stars"
+		},
+		{
+			"Name": "Ippudo",
+			"City": "Berkeley",
+			"State": "CA",
+			"Rating": "4.2"
+		},
+		{
+			"Name": "Sava's",
+			"City": "Ann Arbor",
+			"State": "Michigan",
+			"Rating": "4.4"
+		}
+	]
+}
